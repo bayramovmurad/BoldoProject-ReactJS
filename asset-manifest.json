@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BoldoProject-React-JS/static/css/main.e783dac4.css",
+    "main.js": "/BoldoProject-React-JS/static/js/main.ff0b853e.js",
+    "static/media/_Boldo-image-2.png": "/BoldoProject-React-JS/static/media/61f411acb0b5952894a26f4a_Boldo-image-2.ddd608255e118d1e65e3.png",
+    "static/media/Image (9).png": "/BoldoProject-React-JS/static/media/Image (9).9e85bc90266190e0d2e3.png",
+    "static/media/_Boldo-image-1.png": "/BoldoProject-React-JS/static/media/61f40d2ffe1b877d9dd85f25_Boldo-image-1.be4026eb9ee1d8d4a282.png",
+    "static/media/_hero graphics.png": "/BoldoProject-React-JS/static/media/61f32a150347142af23e528c_hero graphics.1f08f056849302e86b6f.png",
+    "static/media/blueback.png": "/BoldoProject-React-JS/static/media/blueback.80bda7a94fc3fd81ccc2.png",
+    "static/media/greenback.png": "/BoldoProject-React-JS/static/media/greenback.726065accdbb66a382fd.png",
+    "static/media/hands.png": "/BoldoProject-React-JS/static/media/hands.48435f486ea5c907a6a3.png",
+    "index.html": "/BoldoProject-React-JS/index.html",
+    "main.e783dac4.css.map": "/BoldoProject-React-JS/static/css/main.e783dac4.css.map",
+    "main.ff0b853e.js.map": "/BoldoProject-React-JS/static/js/main.ff0b853e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e783dac4.css",
+    "static/js/main.ff0b853e.js"
+  ]
+}
